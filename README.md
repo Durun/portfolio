@@ -1,2 +1,1 @@
-# portfolio
-Naoki Ando's portfolio website
+# Naoki Ando's portfolio
